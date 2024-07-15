@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myagend/static/css/main.3801fe2d.css",
+    "main.js": "/myagend/static/js/main.edb138aa.js",
+    "index.html": "/myagend/index.html",
+    "main.3801fe2d.css.map": "/myagend/static/css/main.3801fe2d.css.map",
+    "main.edb138aa.js.map": "/myagend/static/js/main.edb138aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3801fe2d.css",
+    "static/js/main.edb138aa.js"
+  ]
+}
