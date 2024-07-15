@@ -47,9 +47,15 @@
   font-size: 28px;
 }
 
+form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
 form input, form select {
   font-size: 18px;
-  width: 260px;
+  width: 230px;
   height: 30px;
   margin: 10px;
   margin-right: 27px;
@@ -97,8 +103,9 @@ form button:hover{
   .search h2 {
     font-size: 18px; 
   }
-    
+    .search input {
+      width: 200px;
+    }
 }
-
 
 
