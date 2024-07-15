@@ -93,6 +93,12 @@ form button:hover{
   text-align: center;
 }
 
+@media(max-width:768px){
+  .search h2 {
+    font-size: 18px; 
+  }
+    
+}
 
 
 
